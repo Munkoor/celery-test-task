@@ -1,0 +1,9 @@
+celery
+SQLAlchemy
+psycopg2-binary
+requests
+python-dotenv
+redis<5.0
+pytest
+requests-mock
+pytest-mock
