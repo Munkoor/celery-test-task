@@ -36,8 +36,8 @@ A Python application that periodically fetches random user data from external AP
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/project-name.git
-   cd project-name
+   git clone https://github.com/Munkoor/celery-test-task.git
+   cd celery-test-task
 
 
 2. **Create .env file and fill credentials**
